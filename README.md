@@ -187,7 +187,11 @@ Some of the areas I've completed or explored through certifications and programs
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github.com/premmidastouch/premmidastouch/raw/refs/heads/main/README.md" />
+  <img src="https://github-readme-stats.vercel.app/api?username=premmidastouch&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premmidastouch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -195,13 +199,15 @@ Some of the areas I've completed or explored through certifications and programs
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github.com/premmidastouch/premmidastouch/raw/refs/heads/main/README.md" />
+  <img src="https://streak-stats.demolab.com/?user=premmidastouch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 🐍 Contribution Snake
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/premmidastouch/premmidastouch/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/premmidastouch/premmidastouch/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
