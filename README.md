@@ -187,16 +187,7 @@ Some of the areas I've completed or explored through certifications and programs
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=premmidastouch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="170"
-    alt="Prem Raj Barnwal GitHub Statistics"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=premmidastouch&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-    alt="Top Languages"
-  />
+  <img src="https://github.com/premmidastouch/premmidastouch/raw/refs/heads/main/README.md" />
 </p>
 
 ---
@@ -204,10 +195,7 @@ Some of the areas I've completed or explored through certifications and programs
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=premmidastouch&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
+  <img src="https://github.com/premmidastouch/premmidastouch/raw/refs/heads/main/README.md" />
 </p>
 
 ## 🐍 Contribution Snake
