@@ -13,6 +13,7 @@ I enjoy turning ideas into working projects, exploring emerging technologies, pa
 ```yaml
 Name         : Prem Raj Barnwal
 GitHub       : @premmidastouch
+LinkedIn     : prem-raj-barnwal-484ba12a2
 
 Degree       : B.Tech — Computer Science & Engineering (AI/ML)
 University   : LNCT University, Bhopal, India
@@ -31,6 +32,7 @@ Experience   : Hackathon participant · Project builder · Continuous learner
 
 Philosophy   : "Turning ideas into real-world technology."
 ```
+
 
 ---
 
