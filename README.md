@@ -8,17 +8,29 @@ I enjoy turning ideas into working projects, exploring emerging technologies, pa
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-* 🎓 B.Tech Computer Science & Engineering — **LNCT University, Bhopal**
-* 🤖 Specialization: **Artificial Intelligence & Machine Learning**
-* 🐍 Strong interest in **Python, Machine Learning & Data Science**
-* 📊 Interested in **Data Analytics, Visualization & Business Intelligence**
-* 🧠 Exploring **Generative AI, AI Agents & intelligent systems**
-* 💻 Practicing **Data Structures & Algorithms**
-* 🚀 Building projects that solve real-world problems
-* 🏆 Hackathon participant & problem solver
-* 📚 Always learning, experimenting and building
+```yaml
+Name         : Prem Raj Barnwal
+GitHub       : @premmidastouch
+
+Degree       : B.Tech — Computer Science & Engineering (AI/ML)
+University   : LNCT University, Bhopal, India
+Graduating   : 2027
+
+Email        : premrajbarnwal9122@gmail.com
+Timezone     : UTC +05:30
+
+Interests    : Python · Machine Learning · Data Science
+Focus        : AI/ML Projects · Generative AI · AI Agents
+Exploring    : Intelligent Systems · Data Analytics · Visualization · Business Intelligence
+
+Currently    : Building real-world AI/ML projects and strengthening DSA & problem-solving skills
+
+Experience   : Hackathon participant · Project builder · Continuous learner
+
+Philosophy   : "Turning ideas into real-world technology."
+```
 
 ---
 
