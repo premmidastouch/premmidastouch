@@ -19,7 +19,7 @@ University   : LNCT University, Bhopal, India
 Graduating   : 2027
 
 Email        : premrajbarnwal9122@gmail.com
-Timezone     : UTC +05:30
+Timezone     : IST (UTC +05:30)
 
 Interests    : Python · Machine Learning · Data Science
 Focus        : AI/ML Projects · Generative AI · AI Agents
